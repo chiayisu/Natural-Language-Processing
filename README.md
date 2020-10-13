@@ -8,3 +8,4 @@
 * [我的程式](https://github.com/chiayisu/NLP_and_ML_Algorithm)
 * [課本提到的100天Numpy練習](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)
 * [Numpy文件](https://numpy.org/)
+* [Matplotlib文件](https://matplotlib.org/)
