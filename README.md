@@ -2,6 +2,11 @@
 
 ## Lecture 1: Introduction to Natural Language Processing & Neural Network
 * Lecture Slides: [PPT](Slides/PPT/Lecture1.pptx), [PDF](Slides/PDF/Lecture1.pdf)
+## Lecture 2: 計算圖、反向傳播及自然語言處理之分散式表示法
+* Lecture Slides: [PPT](Slides/PPT/Lecture2.pptx), [PDF](Slides/PDF/Lecture2.pdf)
+* 第二章上課程式
+  1. [相似度程式](Program/co_matrix_with_similarity_calculation.py)
+  2. [降維程式](Program/co_matrix_with_dimension_reduction.py)
 
 
 ## 基礎自然語言處理概念參考
