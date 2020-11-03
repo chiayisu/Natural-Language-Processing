@@ -8,7 +8,8 @@
 * 第二章上課程式
   1. [相似度程式](Program/co_matrix_with_similarity_calculation.py)
   2. [降維程式](Program/co_matrix_with_dimension_reduction.py)
-
+## Lecture 3: 詞向量
+* Lecture Slides: [PPT](Slides/PPT/Lecture3.pptx), [PDF](Slides/PDF/Lecture3.pdf)
 
 ## 基礎自然語言處理概念參考
 * [高科大建功校區人工智慧課程第二章](https://github.com/chiayisu/Artificial_Intelligence_Course/blob/master/README.md)
