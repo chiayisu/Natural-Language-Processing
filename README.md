@@ -12,7 +12,8 @@
 * Lecture Slides: [PPT](Slides/PPT/Lecture3.pptx), [PDF](Slides/PDF/Lecture3.pdf)
 ## Lecture 4: 語言模型及循環神經網路
 * Lecture Slides: [PPT](Slides/PPT/Lecture4.pptx), [PDF](Slides/PDF/Lecture4.pdf)
-
+## Lecture 5: Vanishing Gradient, Gated RNN, Seq2Seq and Transformer
+* Lecture Slides: [PPT](Slides/PPT/Lecture5.pptx), [PDF](Slides/PDF/Lecture5.pdf)
 ## 基礎自然語言處理概念參考
 * [高科大建功校區人工智慧課程第二章](https://github.com/chiayisu/Artificial_Intelligence_Course/blob/master/README.md)
 ## 程式相關連結
